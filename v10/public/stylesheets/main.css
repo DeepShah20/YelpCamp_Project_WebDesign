@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+
+.card img{
+    padding: 5px 10px;
+}
+
+#forcard{
+        margin-top : 20px;
+}
+
+.card .caption-full{
+    padding: 9px;
+}
+
+.delete-form{
+    display: inline;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yelpcamp v1",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "Deep Shah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.12"
+  }
+}
